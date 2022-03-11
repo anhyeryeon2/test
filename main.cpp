@@ -43,4 +43,4 @@ int main(){
     cout<<myd.getpanmaing()<<' ';
     return 0;
 }
-
+ 

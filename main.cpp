@@ -1,5 +1,8 @@
 #include <iostream>
-# 202102021 컴퓨터공학부 안혜련 
+#include <string>
+//string header를 include하지 않아 추가했습니다.
+// 202102021 컴퓨터공학부 안혜련 
+// cpp에서는 주석을 다는 방식이 #이 아닌 //이라 수정했습니다.
 using namespace std;
 
 class Dessert{

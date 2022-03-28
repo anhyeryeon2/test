@@ -32,6 +32,8 @@ public:
 
 };
 
+// 메인
+
 int main(){
     Dessert myd;
     myd.setname("mintchoco");

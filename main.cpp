@@ -34,7 +34,7 @@ public:
 
 int main(){
     Dessert myd;
-    myd.setname("mintchoco");
+    myd.setname("cheesecake");
     myd.setpanmaga(3000);
     myd.setonega(1200);
     myd.setv(200);

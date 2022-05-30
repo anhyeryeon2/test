@@ -38,7 +38,7 @@ int main(){
     myd.setpanmaga(3000);
     myd.setonega(1200);
     myd.setv(200);
-    myd.setpanmaing("?꾩옱?먮ℓ以?);
+    myd.setpanmaing("?ℓ以?);
 
     cout<<myd.getname()<<' ';
     cout<<myd.getpanmaga()<<' ';
